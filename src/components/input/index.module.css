@@ -1,0 +1,25 @@
+.form{
+    border: 1px solid antiquewhite;
+    padding:10px;
+    width: 400px;
+    border-radius: 15px;
+}
+.cardItem{
+    padding:5px;
+    background-color: antiquewhite;
+    border: 3px solid bisque;
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    word-break: break-all;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 15px;
+}
+.btn{
+    background-color: #fadded;
+    border: 1px solid #d6c2ac;
+    color: #57737a;
+    padding: 10px;
+    border-radius: 10px;
+}
