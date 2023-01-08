@@ -6,10 +6,9 @@
 }
 .cardItem{
     padding:5px;
-    background-color: antiquewhite;
-    border: 3px solid bisque;
+    border: 3px solid #e4f8ff;
     max-width: 600px;
-    margin: 0 auto;
+    margin: 10px auto;
     display: flex;
     word-break: break-all;
     justify-content: space-between;
@@ -23,3 +22,7 @@
     padding: 10px;
     border-radius: 10px;
 }
+.container{
+    height: 100vh;
+}
+
